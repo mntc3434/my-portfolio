@@ -20,7 +20,7 @@ const experienceData = [
     period: "2025",
     location: "Remote India ",
     description: [
-      "Developed and maintained Android applications using Flutter and Firebase",
+      "Developed and maintained Android applications using Flutter ",
       "Collaborated with cross-functional teams to define, design, and ship new features",
       "Implemented modern Android development practices and architecture components",
       
