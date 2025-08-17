@@ -21,7 +21,7 @@ const experienceData = [
     location: "Remote India ",
     description: [
       "Developed and maintained Android applications using Flutter ",
-      "Implemented modern Android development practices and architecture components",
+      "Implemented modern Android development practices and architecture components"
       
     ]
   }
