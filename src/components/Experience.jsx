@@ -23,7 +23,7 @@ const experienceData = [
       "Developed and maintained Android applications using Flutter and Firebase",
       "Collaborated with cross-functional teams to define, design, and ship new features",
       "Implemented modern Android development practices and architecture components",
-      "Participated in code reviews and contributed to technical documentation"
+      
     ]
   }
 ];
