@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-.....
+....
 const About = () => {
   const personalDetails = [
     { label: "Full Name", value: "Mentesinot Getu Mulatu" },
