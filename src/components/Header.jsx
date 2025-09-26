@@ -214,7 +214,7 @@ const Header = ({ setActiveSection }) => {
             </motion.a>
             <motion.a 
               whileHover={{ y: -5 }}
-              href="https://t.me/mnte3434" 
+              href="https://t.me/mnteGt" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="group"
