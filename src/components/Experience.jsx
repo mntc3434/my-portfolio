@@ -13,18 +13,19 @@ const experienceData = [
       "Received certificate for completion"
     ]
   },
-  {
-    id: 2,
-    role: "Android Development Intern",
-    company: "SaiKet Systems",
-    period: "2025",
-    location: "Remote India ",
-    description: [
-      "Developed and maintained Android applications using Flutter ",
-      "Implemented modern Android development practices and architecture components"
-      
-    ]
-  }
+ {
+  id: 2,
+  role: "AI Engineer Intern",
+  company: "iCog Labs",
+  period: "September 2025 – Present",
+  location: "Ethiopia",
+  description: [
+    "Working on the ECAN (Economic Attention Network) project at iCog Labs",
+    "Gaining hands-on experience in artificial intelligence research and development",
+    "Collaborating with senior engineers to enhance system design and performance"
+  ]
+}
+
 ];
 
 const educationData = [
