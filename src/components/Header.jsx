@@ -223,7 +223,7 @@ const Header = ({ setActiveSection }) => {
             </motion.a>
             <motion.a 
               whileHover={{ y: -5 }}
-              href= {Mentesinot Getu_CV2}
+              href= {resume}
               download 
               className="flex items-center group"
             >
