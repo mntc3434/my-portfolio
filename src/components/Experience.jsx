@@ -1,5 +1,5 @@
  import { motion } from 'framer-motion';
-....
+...
 const experienceData = [
   {
     id: 1,
