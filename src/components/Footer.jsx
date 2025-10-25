@@ -48,7 +48,7 @@ const Footer = () => {
           </p>
           
           <p className="text-gray-500 text-sm text-center">
-            Built with React, Tailw
+            Built with React
           </p>
         </motion.div>
       </div>
