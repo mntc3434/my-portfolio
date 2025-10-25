@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
           
           <p className="text-gray-400 text-center mb-6">
-            © {currentYear} Mintesinot Getu Mulatu. All rights reserved.
+            © {currentYear} Mintesinot Getu Mulatu. All rights reserved
           </p>
           
           <p className="text-gray-500 text-sm text-center">
