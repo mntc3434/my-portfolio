@@ -13,20 +13,31 @@ const experienceData = [
       "Received certificate for completion"
     ]
   },
- {
-  id: 2,
-  role: "AI Engineer Intern",
-  company: "iCog Labs",
-  period: "September 2025 – Present",
-  location: "Ethiopia",
-  description: [
-    "Working on the ECAN (Economic Attention Network) project at iCog Labs",
-    "Gaining hands-on experience in artificial intelligence research and development",
-    "Collaborating with senior engineers to enhance system design and performance"
-  ]
-}
-
+  {
+    id: 2,
+    role: "AI Engineer Intern",
+    company: "iCog Labs",
+    period: "September 2025 – Present",
+    location: "Ethiopia",
+    description: [
+      "Working on the ECAN (Economic Attention Network) project at iCog Labs",
+      "Gaining hands-on experience in artificial intelligence research and development",
+      "Collaborating with senior engineers to enhance system design and performance"
+    ]
+  },
+  {
+    id: 3,
+    role: "ERP Developer Intern",
+    company: "Buluko Textile",
+    period: "October 2025 – Present",
+    location: "Ethiopia",
+    description: [
+      "Contributing to the implementation and customization of the ERP system",
+      "Collaborating with the IT team to troubleshoot and optimize system performance"
+    ]
+  }
 ];
+
 
 const educationData = [
   {
