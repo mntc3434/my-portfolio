@@ -182,7 +182,7 @@ const Header = ({ setActiveSection }) => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => setActiveSection('projects')}
-              className="px-8 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-lg font-medium shadow-lg hover:shadow-xl transition-all hover:from-blue-600 hover:to-purple-600"
+              className="px-8 py-3 bg-gradient-to-r from-slate-500 to-gray-500 text-white rounded-lg font-medium shadow-lg hover:shadow-xl transition-all hover:from-slate-600 hover:to-gray-600"
             >
               View My Work
             </motion.button>
