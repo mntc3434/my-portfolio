@@ -17,7 +17,7 @@ const Footer = () => {
           <motion.a
             href="#home"
             whileHover={{ scale: 1.1 }}
-            className="text-3xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600"
+            className="text-3xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-sky-400 to-cyan-500"
           >
             Mintesinot Getu
           </motion.a>
