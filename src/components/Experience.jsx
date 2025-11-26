@@ -27,13 +27,13 @@ const experienceData = [
   },
   {
     id: 3,
-    role: "ERP Developer Intern",
-    company: "Buluko Textile",
-    period: "October 2025 – Present",
+    role: "AI Software Developer",
+    company: "Uponli",
+    period: "November 2025 – Present",
     location: "Ethiopia",
     description: [
-      "Contributing to the implementation and customization of the ERP system",
-      "Collaborating with the IT team to troubleshoot and optimize system performance"
+      "Designing an AI-based stock market prediction software system currently in the planning phase",
+      "Contributing to feature definition, system structure, and overall development preparation"
     ]
   }
 ];
