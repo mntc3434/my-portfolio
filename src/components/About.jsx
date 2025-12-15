@@ -13,7 +13,6 @@ const About = () => {
   const languages = [
     { name: "English", proficiency: "Proficient" },
     { name: "Amharic", proficiency: "Native" },
-    { name: "Oromo", proficiency: "Proficient" },
   ];
 
   const certifications = [
